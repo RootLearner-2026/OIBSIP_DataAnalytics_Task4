@@ -1,9 +1,7 @@
 # Data Cleaning and Preprocessing
 
-## Oasis Infobyte Internship
 
-Domain: Data Analytics
-Task: Task 3
+## Domain: Data Analytics
 
 ## Project Overview
 
@@ -52,5 +50,5 @@ Data cleaning is a critical step in data analysis because it improves data quali
 
 ## Author
 
-Narayan
-Data Analytics Intern – Oasis Infobyte
+**Narayan**
+Research Analyst
